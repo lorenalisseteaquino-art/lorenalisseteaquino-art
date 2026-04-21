@@ -4,12 +4,8 @@
 🌱 Apasionada por la innovación educativa, la creatividad y el impacto social 
 📑 Elaboro documentos institucionales, rúbricas y guías claras.  
 - 💻 Integro tecnología y recursos digitales en la enseñanza.  
-- 🌍 Fomento proyectos estudiantiles con impacto social y ambiental. 
-<!--
-**lorenalisseteaquino-art/lorenalisseteaquino-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
- 📚 Intereses  
+- 🌍 Fomento proyectos estudiantiles con impacto social y ambiental.
+- 📚 Intereses  
 - Innovación educativa y metodologías activas.  
 - Emprendimiento y sostenibilidad.  
 - Creatividad y responsabilidad social.  
@@ -35,3 +31,9 @@
 
 
 -->
+
+<!--
+**lorenalisseteaquino-art/lorenalisseteaquino-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+ 
