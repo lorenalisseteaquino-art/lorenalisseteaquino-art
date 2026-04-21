@@ -22,6 +22,10 @@
 - 🏫 **Dinámicas prácticas y materiales visuales.  
 - 💡 **Emprendimiento estudiantil** – Ideas sostenibles y planes de negocio.
 
+- <p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.36b62c86-606e-4462-b1a2-38afde1bbb13.png" alt="Banner Lissette" />
+</p>
+
 
 ## 📫 Contacto  
 - ✉️ lorena.lissete.aquino@clases.edu.sv 
